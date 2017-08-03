@@ -28,8 +28,9 @@ _After this lesson, you will be able to:_
 - Have Beautiful Soup installed
 > ```pip install bs4```
 
-- Have Selenium installed
-> ```pip install selenium```
+- Have Selenium installed, one of:
+> Anaconda: ```conda install -c conda-forge selenium```
+> pip: ```pip install selenium```
 
 - Have [FireFox browser](https://www.mozilla.org/en-US/firefox/new/?utm_source=google&utm_medium=cpc&utm_campaign=Firefox-Brand-US-GGL-Exact&utm_term=firefox&utm_content=A144_A203_A006336&gclid=Cj0KEQjwnPLKBRC-j7nt1b7OlZwBEiQAv8lMLJUyReT6cPzSYdmEA6uD3YDoieuuuusddgAU7XH6smEaAoje8P8HAQ&gclsrc=aw.ds) installed.
 
@@ -74,3 +75,21 @@ TOTAL (170 min)
 - OAuth (15 min)
 - Independent practice: python APIs (30 min)
 - Closing questions
+
+
+### Part 2: Lesson Guide
+
+TOTAL (170 min)
+- Introduction (10 min)
+- Building a web scraper (5 min)
+- Retrieving data from the HTML page (65 min)
+    - Retrieving the restaurant names (20 min)
+    - Challenge: Retrieving the restaurant locations (15 min)
+    - Retrieving the restaurant prices (10 min)
+    - Retrieving the restaurant number of bookings (20 min)
+- Introducting Selenium (90 min)
+    - Running JavaScript before scraping (15 min)
+    - Using regex to only get digits (20 min)
+    - Challenge: Use Pandas to create a DataFrame of bookings (40 min)
+    - Auto-typing using Selenium (15 min)
+- Summary
