@@ -1,8 +1,22 @@
-## Getting Data and APIs
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Getting Data and APIs
+Unit 4 : DS Applications | Lesson 1 : Getting Data and APIs
 
-### Part 1: Intro to Web Services & APIs
+---
 
-#### Learning Objectives
+## Materials We Provide
+
+| Topic | Description | Link |
+| --- | --- | --- |
+| Lesson | Part 1: APIs | [Here](./APIs/intro-to-web-services-apis.ipynb) |
+| | Part 2: Webscraping (Optional supplement, time permitting) | [Here](./WebScraping/webscraping-in-class.ipynb) |
+| Source Materials | Original files used to create the API portion of the lesson | [Here](./APIs/assets/slides/) |
+| Solution  | Solution code for blanked out lesson samples - Webscraping Portion | [Here](./WebScraping/solution-code/webscraping-in-class-solutions.ipynb) |
+
+---
+
+### Learning Objectives
+
+#### Part 1: Intro to Web Services & APIs
 _After this lesson, you will be able to:_
 - Identify relevant HTTP Verbs & their uses.
 - Describe Application Programming Interfaces (APIs) and know how to make calls and consume API data.
@@ -10,12 +24,8 @@ _After this lesson, you will be able to:_
 - Read and write data in JSON format.
 - Use the `requests` library.
 
----
-
-### Part 2: Webscraping in Class - Optional Supplement, Time Permitting
-
-#### Learning Objectives
-
+#### Part 2: Webscraping in Class (Optional)
+_After this lesson, you will be able to:_
 - Revisit how to locate elements on a webpage
 - Aquire unstructure data from the internet using Beautiful soup.
 - Discuss limitations associated with simple requests and urllib libraries
@@ -23,33 +33,9 @@ _After this lesson, you will be able to:_
 
 ---
 
-#### Prerequisites
+## Lesson Outline
 
-- Have Beautiful Soup installed
-> ```pip install bs4```
-
-
-**If including Selenium demo:**
-- Have Selenium installed, one of:
-> Anaconda: ```conda install -c conda-forge selenium```
-> pip: ```pip install selenium```
-
-- Have [FireFox browser](https://www.mozilla.org/en-US/firefox/new/?utm_source=google&utm_medium=cpc&utm_campaign=Firefox-Brand-US-GGL-Exact&utm_term=firefox&utm_content=A144_A203_A006336&gclid=Cj0KEQjwnPLKBRC-j7nt1b7OlZwBEiQAv8lMLJUyReT6cPzSYdmEA6uD3YDoieuuuusddgAU7XH6smEaAoje8P8HAQ&gclsrc=aw.ds) installed.
-
-- Have GeckoDriver installed.
-> ```brew install geckodriver```
-
----
-
-## Resources
-
-- Find elements [Selenium docs](http://selenium-python.readthedocs.io/locating-elements.html#locating-elements)
-- Using Selenium to enter website information [demo](http://thiagomarzagao.com/2013/11/12/webscraping-with-selenium-part-1/)
-- Python regex tester [here](http://pythex.org/)
-- Setup Firefox profile [here](http://stackoverflow.com/questions/9907492/how-to-get-firefox-working-with-selenium-webdriver-on-mac-osx)
-
-
-### Part 1: Lesson Guide
+### Part 1
 TOTAL (170 min)
 - Introduction to APIs
 - What is an API? (10 min)
@@ -79,7 +65,7 @@ TOTAL (170 min)
 - Closing questions
 
 
-### Part 2: Lesson Guide
+### Part 2
 
 TOTAL (170 min)
 - Introduction (10 min)
@@ -95,3 +81,30 @@ TOTAL (170 min)
     - Challenge: Use Pandas to create a DataFrame of bookings (40 min)
     - Auto-typing using Selenium (15 min)
 - Summary
+
+---
+
+### Prerequisites
+
+- Have Beautiful Soup installed
+> ```pip install bs4```
+
+
+**If including Selenium demo:**
+- Have Selenium installed, one of:
+> Anaconda: ```conda install -c conda-forge selenium```
+> pip: ```pip install selenium```
+
+- Have [FireFox browser](https://www.mozilla.org/en-US/firefox/new/?utm_source=google&utm_medium=cpc&utm_campaign=Firefox-Brand-US-GGL-Exact&utm_term=firefox&utm_content=A144_A203_A006336&gclid=Cj0KEQjwnPLKBRC-j7nt1b7OlZwBEiQAv8lMLJUyReT6cPzSYdmEA6uD3YDoieuuuusddgAU7XH6smEaAoje8P8HAQ&gclsrc=aw.ds) installed.
+
+- Have GeckoDriver installed.
+> ```brew install geckodriver```
+
+---
+
+## Resources
+
+- Find elements [Selenium docs](http://selenium-python.readthedocs.io/locating-elements.html#locating-elements)
+- Using Selenium to enter website information [demo](http://thiagomarzagao.com/2013/11/12/webscraping-with-selenium-part-1/)
+- Python regex tester [here](http://pythex.org/)
+- Setup Firefox profile [here](http://stackoverflow.com/questions/9907492/how-to-get-firefox-working-with-selenium-webdriver-on-mac-osx)
