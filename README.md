@@ -12,14 +12,14 @@ _After this lesson, you will be able to:_
 
 ---
 
-### Part 2: Webscraping in Class
+### Part 2: Webscraping in Class - Optional Supplement, Time Permitting
 
 #### Learning Objectives
 
 - Revisit how to locate elements on a webpage
 - Aquire unstructure data from the internet using Beautiful soup.
 - Discuss limitations associated with simple requests and urllib libraries
-- Introduce Selenium as a solution, and implement a scraper using selenium
+- Introduce Selenium as a solution, and implement a scraper using selenium (Instructor Demo only)
 
 ---
 
@@ -28,6 +28,8 @@ _After this lesson, you will be able to:_
 - Have Beautiful Soup installed
 > ```pip install bs4```
 
+
+**If including Selenium demo:**
 - Have Selenium installed, one of:
 > Anaconda: ```conda install -c conda-forge selenium```
 > pip: ```pip install selenium```
