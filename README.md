@@ -9,6 +9,9 @@ Unit 4 : DS Applications | Lesson 1 : Getting Data and APIs
 | --- | --- | --- |
 | Lesson | Part 1: APIs | [Here](./APIs/intro-to-web-services-apis.ipynb) |
 | | Part 2: Webscraping (Optional supplement, time permitting) | [Here](./WebScraping/webscraping-in-class.ipynb) |
+| Practice | Case Study Twitter API and NLP | [Here](./practice/case-study-twitter-api-nlp.ipynb) |
+|          | Practice Using APIs            | [Here](./practice/practice-using-apis-lab.ipynb)    |
+|          | Webscraping with Selenium      | [Here](./practice/webscraping-selenium.ipynb)       |
 | Source Materials | Original files used to create the API portion of the lesson | [Here](./APIs/assets/slides/) |
 | Solution  | Solution code for blanked out lesson samples - Webscraping Portion | [Here](./WebScraping/solution-code/webscraping-in-class-solutions.ipynb) |
 
