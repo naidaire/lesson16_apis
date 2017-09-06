@@ -14,7 +14,7 @@ Unit 4 : DS Applications | Flex
   - _**Note**_ : This lab is intended to be a guided lab until the independent practice questions.
   
 #### Practice Using APIs
-  - **Description** : Practice collecting data using the Sheetze and TVmaze APIs
+  - **Description** : Practice collecting data using the Sheetzu and TVmaze APIs
   - **Difficulty** : Moderate
   - **Length** : Moderate
 
