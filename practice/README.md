@@ -7,7 +7,18 @@ Unit 4 : DS Applications | Flex
 ## Practices
 
 
-#### Practice Name
-  - **Description** :
-  - **Difficulty** :
-  - **Length** :
+#### Case Study Twitter API and NLP
+  - **Description** : Use the Twitter API to gather tweets from Donald Trump and Burnie Sanders and use then build an ML model to classify tweets.
+  - **Difficulty** : Long
+  - **Length** : Advance
+  - _**Note**_ : This lab is intended to be a guided lab until the independent practice questions.
+  
+#### Practice Using APIs
+  - **Description** : Practice collecting data using the Sheetze and TVmaze APIs
+  - **Difficulty** : Moderate
+  - **Length** : Moderate
+
+#### Webscraping with Selenium
+  - **Description** : Practice using Selenium as a means to scrape data
+  - **Difficulty** : Moderate
+  - **Length** : Long
