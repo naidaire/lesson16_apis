@@ -1,3 +1,11 @@
+### v0.2 | 09.08.17
+
+_Editor: Sam Stack_
+
+- Uniform naming of practice files
+
+- Added links to practice and solution notebooks in practice readme
+
 ### v0.1 | 09.05.17
 
 _Editor: Sam Stack_
