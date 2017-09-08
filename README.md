@@ -87,7 +87,18 @@ TOTAL (170 min)
 
 ---
 
-### Prerequisites
+## Student Requirements
+
+Before this lesson(s), students should already be able to:
+- Interpret and use Python dictionaries
+- Build Pandas DataFrames from dictionaries
+- Perform simple data manipulation on Pandas objects\
+- Build `for` and `while` loops in Python
+- Use `pip install` for package management
+
+---
+
+### Environment Requirements
 
 - Have Beautiful Soup installed
 > ```pip install bs4```
