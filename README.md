@@ -110,13 +110,11 @@ When running this lesson, please check the following environment requirements:
 
 
 **If including Selenium demo:**
-
-1.  Have Selenium installed, using one of the following:
- - Anaconda: ```conda install -c conda-forge selenium```
- - pip: ```pip install selenium```
-1.  Have [FireFox browser](https://www.mozilla.org/en-US/firefox/new/?utm_source=google&utm_medium=cpc&utm_campaign=Firefox-Brand-US-GGL-Exact&utm_term=firefox&utm_content=A144_A203_A006336&gclid=Cj0KEQjwnPLKBRC-j7nt1b7OlZwBEiQAv8lMLJUyReT6cPzSYdmEA6uD3YDoieuuuusddgAU7XH6smEaAoje8P8HAQ&gclsrc=aw.ds) installed.
-1.  Have GeckoDriver installed:
- > ```brew install geckodriver```
+1.  Install Selenium, using one of the following:
+  - Anaconda: ```conda install -c conda-forge selenium```
+  - pip: ```pip install selenium```
+1.  Install the [FireFox browser](https://www.mozilla.org/en-US/firefox/new/?utm_source=google&utm_medium=cpc&utm_campaign=Firefox-Brand-US-GGL-Exact&utm_term=firefox&utm_content=A144_A203_A006336&gclid=Cj0KEQjwnPLKBRC-j7nt1b7OlZwBEiQAv8lMLJUyReT6cPzSYdmEA6uD3YDoieuuuusddgAU7XH6smEaAoje8P8HAQ&gclsrc=aw.ds).
+1.  Install GeckoDriver: ```pip install geckodriver```
 
 ---
 
