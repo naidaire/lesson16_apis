@@ -39,9 +39,20 @@ _After this lesson, you will be able to:_
 
 ---
 
+## Student Requirements
+
+Before this lesson(s), students should already be able to:
+- Interpret and use Python dictionaries
+- Build Pandas DataFrames from dictionaries
+- Perform simple data manipulation on Pandas objects\
+- Build `for` and `while` loops in Python
+- Use `pip install` for package management
+
+---
+
 ## Lesson Outline
 
-#### Part 1
+### Outline (Part 1: Web Services & APIs)
 > TOTAL (170 min)
 
 - Introduction to APIs
@@ -72,7 +83,7 @@ _After this lesson, you will be able to:_
 - Closing questions
 
 
-#### Part 2
+### Outline (Part 2: Webscraping in Class)
 > TOTAL (170 min)
 
 - Introduction (10 min)
@@ -91,32 +102,20 @@ _After this lesson, you will be able to:_
 
 ---
 
-## Student Requirements
+## Installation Notes
 
-Before this lesson(s), students should already be able to:
-- Interpret and use Python dictionaries
-- Build Pandas DataFrames from dictionaries
-- Perform simple data manipulation on Pandas objects\
-- Build `for` and `while` loops in Python
-- Use `pip install` for package management
+When running this lesson, please check the following environment requirements:
 
----
-
-### Environment Requirements
-
-- Have Beautiful Soup installed.
-> ```pip install bs4```
+1. Have Beautiful Soup installed: ```pip install bs4```
 
 
 **If including Selenium demo:**
-- Have Selenium installed, using one of the following:
-> Anaconda: ```conda install -c conda-forge selenium```
-> pip: ```pip install selenium```
-
-- Have [FireFox browser](https://www.mozilla.org/en-US/firefox/new/?utm_source=google&utm_medium=cpc&utm_campaign=Firefox-Brand-US-GGL-Exact&utm_term=firefox&utm_content=A144_A203_A006336&gclid=Cj0KEQjwnPLKBRC-j7nt1b7OlZwBEiQAv8lMLJUyReT6cPzSYdmEA6uD3YDoieuuuusddgAU7XH6smEaAoje8P8HAQ&gclsrc=aw.ds) installed.
-
-- Have GeckoDriver installed:
-> ```brew install geckodriver```
+1.  Have Selenium installed, using one of the following:
+ > Anaconda: ```conda install -c conda-forge selenium```
+ > pip: ```pip install selenium```
+1.  Have [FireFox browser](https://www.mozilla.org/en-US/firefox/new/?utm_source=google&utm_medium=cpc&utm_campaign=Firefox-Brand-US-GGL-Exact&utm_term=firefox&utm_content=A144_A203_A006336&gclid=Cj0KEQjwnPLKBRC-j7nt1b7OlZwBEiQAv8lMLJUyReT6cPzSYdmEA6uD3YDoieuuuusddgAU7XH6smEaAoje8P8HAQ&gclsrc=aw.ds) installed.
+1.  Have GeckoDriver installed:
+ > ```brew install geckodriver```
 
 ---
 
