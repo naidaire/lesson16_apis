@@ -1,5 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Working With Real World Data
-Unit 4 : DS Applications | Lesson 1 : Getting Data From APIs
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Working With API Data
+
+> Unit 4: Required
 
 ---
 
@@ -15,6 +16,8 @@ Unit 4 : DS Applications | Lesson 1 : Getting Data From APIs
 | Source Materials | Original files used to create the API portion of the lesson | [Here](./APIs/assets/slides/) |
 | Solution  | Solution code for blanked out lesson samples - Webscraping Portion | [Here](./WebScraping/solution-code/webscraping-in-class-solutions.ipynb) |
 
+This lesson makes use of datasets from the `requests` library as well as twitter case study materials.
+
 ---
 
 ## Learning Objectives
@@ -25,7 +28,7 @@ _After this lesson, you will be able to:_
 - Describe Application Programming Interfaces (APIs) and know how to make calls and consume API data.
 - Access public APIs and get information back.
 - Read and write data in JSON format.
-- Use the `requests` library.
+- Demonstrate how to use the `requests` library.
 
 #### Part 2: Webscraping in Class (Optional)
 _After this lesson, you will be able to:_
