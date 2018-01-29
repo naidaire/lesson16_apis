@@ -110,6 +110,7 @@ When running this lesson, please check the following environment requirements:
 
 
 **If including Selenium demo:**
+
 1.  Have Selenium installed, using one of the following:
  - Anaconda: ```conda install -c conda-forge selenium```
  - pip: ```pip install selenium```
