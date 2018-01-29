@@ -23,7 +23,7 @@ This lesson makes use of datasets from the `requests` library as well as twitter
 ## Learning Objectives
 
 #### Part 1: Intro to Web Services & APIs
-_After this lesson, you will be able to:_
+_After this lesson, students will be able to:_
 - Identify relevant HTTP Verbs & their uses.
 - Describe Application Programming Interfaces (APIs) and know how to make calls and consume API data.
 - Access public APIs and get information back.
@@ -31,7 +31,7 @@ _After this lesson, you will be able to:_
 - Demonstrate how to use the `requests` library.
 
 #### Part 2: Webscraping in Class (Optional)
-_After this lesson, you will be able to:_
+_After this lesson, students will be able to:_
 - Revisit how to locate elements on a webpage
 - Aquire unstructure data from the internet using Beautiful soup.
 - Discuss limitations associated with simple requests and urllib libraries
@@ -52,7 +52,7 @@ Before this lesson(s), students should already be able to:
 
 ## Lesson Outline
 
-### Outline (Part 1: Web Services & APIs)
+### Outline: Part 1 (Web Services & APIs)
 > TOTAL (170 min)
 
 - Introduction to APIs
@@ -83,7 +83,7 @@ Before this lesson(s), students should already be able to:
 - Closing questions
 
 
-### Outline (Part 2: Webscraping in Class)
+### Outline: Part 2 (Webscraping in Class)
 > TOTAL (170 min)
 
 - Introduction (10 min)
@@ -105,7 +105,6 @@ Before this lesson(s), students should already be able to:
 ## Installation Notes
 
 When running this lesson, please check the following environment requirements:
-
 1. Have Beautiful Soup installed: ```pip install bs4```
 
 
